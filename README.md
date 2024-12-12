@@ -59,7 +59,7 @@
         <br />Docker
       </td>
       <td align="center" width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="filter: invert(1) brightness(1000%);"/>
+        <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40" height="40" alt="GitHub"/>
         <br />GitHub
       </td>
       <td align="center" width="150">
