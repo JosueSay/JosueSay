@@ -88,9 +88,9 @@
   <h2>📊 My GitHub Stats</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=josuesay&hide_border=true&custom_title=Estadísticas%20Josuesay&line_height=30&rank_icon=github&theme=dracula&show_icons=true&bg_color=45,2f3048,3f405e"
+      src="https://github-readme-stats.vercel.app/api?username=josuesay&hide_border=true&line_height=30&rank_icon=github&theme=dracula&show_icons=true&bg_color=45,2f3048,3f405e"
       alt="GitHub Stats"
-      style="width: 430px;"
+      style="width: 400px;"
     />
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
