@@ -90,13 +90,13 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=josuesay&hide_border=true&custom_title=Estadísticas%20Josuesay&line_height=30&rank_icon=github&theme=dracula&show_icons=true&bg_color=45,2f3048,3f405e"
       alt="GitHub Stats"
-      style="width: 630px;"
+      style="width: 430px;"
     />
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesay&hide=html&theme=dracula&hide_border=true&bg_color=45,2f3048,3f405e"
         alt="Top Languages"
-        style="height: 300px;"
+        style="height: 200px;"
       />
     </a>
   </div>
