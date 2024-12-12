@@ -90,7 +90,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=josuesay&hide_border=true&line_height=30&rank_icon=github&theme=dracula&show_icons=true&bg_color=45,2f3048,3f405e"
       alt="GitHub Stats"
-      style="width: 400px;"
+      style="width: 420px;"
     />
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
