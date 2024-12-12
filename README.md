@@ -1,13 +1,13 @@
-<div align="center">
+<div style="text-align: center;">
   <h1>Hi there! 👋 I'm Josue Say</h1>
-  <p>
-    I am a <strong>Computer Science Engineering Student</strong> currently in my 4th year at the 
-    <strong>University of the Valley of Guatemala</strong>. With a deep passion for technology, I specialize in 
-    <strong>frontend programming</strong>, while also enjoying the logic and structure of backend development. 
-    Additionally, I have basic experience working with databases. <br><br>
-    Outside of coding, I am a proud cat lover 🐱 and cherish spending quality time with my feline friends. When I’m not programming or with my cats, you’ll often find me diving into matches of <strong>Overwatch</strong> 🎮, enjoying the thrill of competitive gaming.
-  </p>
 </div>
+<p style="text-align: justify;">
+  I am a <strong>Computer Science Engineering Student</strong> currently in my 4th year at the 
+  <strong>University of the Valley of Guatemala</strong>. With a deep passion for technology, I specialize in 
+  <strong>frontend programming</strong>, while also enjoying the logic and structure of backend development. 
+  Additionally, I have basic experience working with databases. <br><br>
+  Outside of coding, I am a proud cat lover 🐱 and cherish spending quality time with my feline friends. When I’m not programming or with my cats, you’ll often find me diving into matches of <strong>Overwatch</strong> 🎮, enjoying the thrill of competitive gaming.
+</p>
 
 <div align="center">
   <h2>📫 Connect with me</h2>
@@ -20,6 +20,7 @@
     </a>
   </p>
 </div>
+
 <div align="center">
   <h2>🛠️ Skills and Tools</h2>
   <table align="center">
