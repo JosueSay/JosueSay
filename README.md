@@ -89,11 +89,13 @@
 <div align="center">
   <h2>📜 Recent Activity</h2>
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
-  
+  <div style="text-align: left; display: inline-block;">
   <!--RECENT_ACTIVITY:start-->
-  
+
   <!--RECENT_ACTIVITY:last_update-->
+  </div>
 </div>
+
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
