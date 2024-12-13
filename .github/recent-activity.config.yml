@@ -1,8 +1,6 @@
-settings:
-  username: "JosueSay"
-  commit_msg: "Update README with the recent activity"
-  readme_file: "./README.md"
-  disabled_events:
-    - "comments"
-  date:
-    text: "Last Updated: {DATE} (GMT)"
+username: JosueSay
+max_lines: 3
+readme_file: ./README.md
+disabled_events: []
+timezone: America/Guatemala
+commit_text: ":zap: Update recent activity"

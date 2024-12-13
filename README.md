@@ -71,15 +71,6 @@
     </tr>
   </table>
 
-
-# Recent Activity
-
-This is a list of my most recent activity on GitHub.
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
   <h3>📚 Libraries & Tools</h3>
   <table align="center">
     <tr>
