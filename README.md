@@ -87,6 +87,16 @@
 </div>
 
 <div align="center">
+  <h2>📜 Actividad Reciente</h2>
+
+  <!--RECENT_ACTIVITY:start-->
+
+  <!--RECENT_ACTIVITY:last_update-->
+</div>
+
+
+
+<div align="center">
   <h2>📊 My GitHub Stats</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img
