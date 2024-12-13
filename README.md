@@ -89,9 +89,9 @@
 <div align="center">
   <h2>📜 Recent Activity</h2>
   <p>Here's a summary of my most recent activity on GitHub</p>
-  <!--RECENT_ACTIVITY:last_update_end-->
-
-  <!--RECENT_ACTIVITY:end-->
+  <!--RECENT_ACTIVITY:start-->
+  
+  <!--RECENT_ACTIVITY:last_update-->
 </div>
 
 <div align="center">
