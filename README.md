@@ -94,11 +94,11 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
-2. 🎉 Merged PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
-3. 💪 Opened PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
-4. 📔 Created new repository [MFOC1/.github](https://github.com/MFOC1/.github)
-5. 📔 Created new repository [JosueSay/JosueSay](https://github.com/JosueSay/JosueSay)
+1. ✌️ Released [v0.1.0](https://github.com/JosueSay/TestRelease/releases/tag/v0.1.0) in [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
+2. 📔 Created new repository [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
+3. 🎉 Merged PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
+4. 💪 Opened PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
+5. 📔 Created new repository [MFOC1/.github](https://github.com/MFOC1/.github)
 Last Updated: Saturday, December 14th, 2024, 8:46:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
