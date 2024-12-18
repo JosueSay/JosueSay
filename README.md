@@ -94,11 +94,11 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/JosueSay/GitDocumentation/pull/3) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
-2. ✌️ Released [v0.1.0](https://github.com/JosueSay/TestRelease/releases/tag/v0.1.0) in [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
-3. 📔 Created new repository [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
-4. 🎉 Merged PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
-5. 💪 Opened PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
+1. ⭐ Starred [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+2. 🎉 Merged PR [#3](https://github.com/JosueSay/GitDocumentation/pull/3) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
+3. ✌️ Released [v0.1.0](https://github.com/JosueSay/TestRelease/releases/tag/v0.1.0) in [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
+4. 📔 Created new repository [JosueSay/TestRelease](https://github.com/JosueSay/TestRelease)
+5. 🎉 Merged PR [#2](https://github.com/JosueSay/GitDocumentation/pull/2) in [JosueSay/GitDocumentation](https://github.com/JosueSay/GitDocumentation)
 Last Updated: Saturday, December 14th, 2024, 8:46:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
