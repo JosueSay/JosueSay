@@ -94,11 +94,11 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-2. ❗️ Opened issue [#7](https://github.com/JosueSay/Git_GitHub_Documentation/issues/7) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-3. ❗️ Opened issue [#6](https://github.com/JosueSay/Git_GitHub_Documentation/issues/6) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-4. ❗️ Opened issue [#5](https://github.com/JosueSay/Git_GitHub_Documentation/issues/5) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-5. ❗️ Opened issue [#4](https://github.com/JosueSay/Git_GitHub_Documentation/issues/4) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+1. ❌ Closed PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+2. 💪 Opened PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+3. ❗️ Opened issue [#7](https://github.com/JosueSay/Git_GitHub_Documentation/issues/7) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+4. ❗️ Opened issue [#6](https://github.com/JosueSay/Git_GitHub_Documentation/issues/6) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+5. ❗️ Opened issue [#5](https://github.com/JosueSay/Git_GitHub_Documentation/issues/5) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
 Last Updated: Saturday, December 14th, 2024, 8:46:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:end-->
