@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/JosueSay/LenguageDesign/pull/1) in [JosueSay/LenguageDesign](https://github.com/JosueSay/LenguageDesign)
-2. 🔱 Forked [JosueSay/TestingOdoo](https://github.com/JosueSay/TestingOdoo) from [odoo/odoo](https://github.com/odoo/odoo)
-3. ❌ Closed PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-4. 💪 Opened PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
-5. ❗️ Opened issue [#7](https://github.com/JosueSay/Git_GitHub_Documentation/issues/7) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+1. 🤝 Became collaborator on [JosueSay/LenguageDesign](https://github.com/JosueSay/LenguageDesign)
+2. 🤝 Became collaborator on [JosueSay/LenguageDesign](https://github.com/JosueSay/LenguageDesign)
+3. 🎉 Merged PR [#1](https://github.com/JosueSay/LenguageDesign/pull/1) in [JosueSay/LenguageDesign](https://github.com/JosueSay/LenguageDesign)
+4. 🔱 Forked [JosueSay/TestingOdoo](https://github.com/JosueSay/TestingOdoo) from [odoo/odoo](https://github.com/odoo/odoo)
+5. ❌ Closed PR [#8](https://github.com/JosueSay/Git_GitHub_Documentation/pull/8) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 29th, 2025, 5:19:26 PM
+Last Updated: Wednesday, January 29th, 2025, 5:39:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
