@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/Neo4j_Documentation](https://github.com/JosueSay/Neo4j_Documentation)
-2. 🤝 Became collaborator on [JosueSay/IntelligenceArtificial](https://github.com/JosueSay/IntelligenceArtificial)
-3. 🎉 Merged PR [#1](https://github.com/JosueSay/DataMining/pull/1) in [JosueSay/DataMining](https://github.com/JosueSay/DataMining)
-4. 🤝 Became collaborator on [JosueSay/Data_Mining](https://github.com/JosueSay/Data_Mining)
-5. 🤝 Became collaborator on [JosueSay/LenguageDesign](https://github.com/JosueSay/LenguageDesign)
+1. 📔 Created new repository [JosueSay/JavaDocumentation](https://github.com/JosueSay/JavaDocumentation)
+2. 📔 Created new repository [JosueSay/Neo4j_Documentation](https://github.com/JosueSay/Neo4j_Documentation)
+3. 🤝 Became collaborator on [JosueSay/IntelligenceArtificial](https://github.com/JosueSay/IntelligenceArtificial)
+4. 🎉 Merged PR [#1](https://github.com/JosueSay/DataMining/pull/1) in [JosueSay/DataMining](https://github.com/JosueSay/DataMining)
+5. 🤝 Became collaborator on [JosueSay/Data_Mining](https://github.com/JosueSay/Data_Mining)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 17th, 2025, 3:28:37 AM
+Last Updated: Monday, February 17th, 2025, 3:45:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
