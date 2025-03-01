@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JosueSay/CC_3074_Proyecto_2](https://github.com/JosueSay/CC_3074_Proyecto_2) from [tsc221645/CC_3074_Proyecto_2](https://github.com/tsc221645/CC_3074_Proyecto_2)
-2. 📔 Created new repository [JosueSay/NeoFraudDetector](https://github.com/JosueSay/NeoFraudDetector)
-3. 🤝 Became collaborator on [JosueSay/AlgorithmAnalysis](https://github.com/JosueSay/AlgorithmAnalysis)
+1. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
+2. 🔱 Forked [JosueSay/CC_3074_Proyecto_2](https://github.com/JosueSay/CC_3074_Proyecto_2) from [tsc221645/CC_3074_Proyecto_2](https://github.com/tsc221645/CC_3074_Proyecto_2)
+3. 📔 Created new repository [JosueSay/NeoFraudDetector](https://github.com/JosueSay/NeoFraudDetector)
 4. 🤝 Became collaborator on [JosueSay/AlgorithmAnalysis](https://github.com/JosueSay/AlgorithmAnalysis)
 5. 🤝 Became collaborator on [JosueSay/AlgorithmAnalysis](https://github.com/JosueSay/AlgorithmAnalysis)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 1st, 2025, 2:39:52 PM
+Last Updated: Saturday, March 1st, 2025, 3:22:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
