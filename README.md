@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
-2. 🔱 Forked [JosueSay/CC_3074_Proyecto_2](https://github.com/JosueSay/CC_3074_Proyecto_2) from [tsc221645/CC_3074_Proyecto_2](https://github.com/tsc221645/CC_3074_Proyecto_2)
-3. 📔 Created new repository [JosueSay/NeoFraudDetector](https://github.com/JosueSay/NeoFraudDetector)
-4. 🤝 Became collaborator on [JosueSay/AlgorithmAnalysis](https://github.com/JosueSay/AlgorithmAnalysis)
-5. 🤝 Became collaborator on [JosueSay/AlgorithmAnalysis](https://github.com/JosueSay/AlgorithmAnalysis)
+1. 📔 Created new repository [JosueSay/CSV-FRAUD-NEO4J](https://github.com/JosueSay/CSV-FRAUD-NEO4J)
+2. 📔 Created new repository [JosueSay/CSV_FRAUD](https://github.com/JosueSay/CSV_FRAUD)
+3. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
+4. 🔱 Forked [JosueSay/CC_3074_Proyecto_2](https://github.com/JosueSay/CC_3074_Proyecto_2) from [tsc221645/CC_3074_Proyecto_2](https://github.com/tsc221645/CC_3074_Proyecto_2)
+5. 📔 Created new repository [JosueSay/NeoFraudDetector](https://github.com/JosueSay/NeoFraudDetector)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 7:38:17 PM
+Last Updated: Sunday, March 2nd, 2025, 8:22:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
