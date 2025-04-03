@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
-2. 📔 Created new repository [JosueSay/HousePrices](https://github.com/JosueSay/HousePrices)
-3. 📔 Created new repository [JosueSay/CSV-FRAUD-NEO4J](https://github.com/JosueSay/CSV-FRAUD-NEO4J)
+1. 🤝 Became collaborator on [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
+2. 📔 Created new repository [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
+3. 📔 Created new repository [JosueSay/HousePrices](https://github.com/JosueSay/HousePrices)
 4. 📔 Created new repository [JosueSay/CSV_FRAUD](https://github.com/JosueSay/CSV_FRAUD)
 5. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 3rd, 2025, 8:42:48 PM
+Last Updated: Thursday, April 3rd, 2025, 9:22:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
