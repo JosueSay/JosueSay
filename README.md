@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/lab5sistos](https://github.com/JosueSay/lab5sistos)
-2. 📖 Created new wiki page [Home](https://github.com/JosueSay/OverBlogWatch/wiki/Home) in [JosueSay/OverBlogWatch](https://github.com/JosueSay/OverBlogWatch)
+1. 📔 Created new repository [JosueSay/SistosNotes](https://github.com/JosueSay/SistosNotes)
+2. 📔 Created new repository [JosueSay/lab5sistos](https://github.com/JosueSay/lab5sistos)
 3. 📖 Created new wiki page [Test-Wiki](https://github.com/JosueSay/OverBlogWatch/wiki/Test-Wiki) in [JosueSay/OverBlogWatch](https://github.com/JosueSay/OverBlogWatch)
 4. 🤝 Became collaborator on [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
 5. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 8th, 2025, 3:27:59 PM
+Last Updated: Thursday, May 8th, 2025, 3:45:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
