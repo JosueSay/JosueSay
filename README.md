@@ -94,7 +94,7 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/SchedulerSim](https://github.com/JosueSay/SchedulerSim)
+1. 📔 Created new repository [JosueSay/DataScience](https://github.com/JosueSay/DataScience)
 2. 📔 Created new repository [JosueSay/SistosNotes](https://github.com/JosueSay/SistosNotes)
 3. 📔 Created new repository [JosueSay/lab5sistos](https://github.com/JosueSay/lab5sistos)
 4. 🤝 Became collaborator on [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
@@ -102,7 +102,7 @@
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 4th, 2025, 3:36:27 AM
+Last Updated: Friday, July 4th, 2025, 4:35:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
