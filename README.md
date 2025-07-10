@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/DS-DOCS](https://github.com/JosueSay/DS-DOCS)
-2. 📔 Created new repository [JosueSay/DataScience](https://github.com/JosueSay/DataScience)
-3. 📔 Created new repository [JosueSay/lab5sistos](https://github.com/JosueSay/lab5sistos)
+1. 🤝 Became collaborator on [ElrohirGT/P1_DataScience](https://github.com/ElrohirGT/P1_DataScience)
+2. 📔 Created new repository [JosueSay/DS-DOCS](https://github.com/JosueSay/DS-DOCS)
+3. 📔 Created new repository [JosueSay/DataScience](https://github.com/JosueSay/DataScience)
 4. 🤝 Became collaborator on [JosueSay/FrogJumpProblem](https://github.com/JosueSay/FrogJumpProblem)
 5. 🔱 Forked [JosueSay/Turing](https://github.com/JosueSay/Turing) from [DanielRasho/CT-Turing-Machine](https://github.com/DanielRasho/CT-Turing-Machine)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 10th, 2025, 5:50:22 AM
+Last Updated: Thursday, July 10th, 2025, 6:39:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
