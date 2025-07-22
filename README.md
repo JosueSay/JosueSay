@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/JuliaDocs](https://github.com/JosueSay/JuliaDocs)
-2. 🤝 Became collaborator on [Anggelie/Rasterization](https://github.com/Anggelie/Rasterization)
-3. 📔 Created new repository [JosueSay/lab1-esquemas_comunicacion](https://github.com/JosueSay/lab1-esquemas_comunicacion)
-4. 🤝 Became collaborator on [ElrohirGT/P1_DataScience](https://github.com/ElrohirGT/P1_DataScience)
-5. 📔 Created new repository [JosueSay/DS-DOCS](https://github.com/JosueSay/DS-DOCS)
+1. 🤝 Became collaborator on [Jose-Prince/Lab2-Redes](https://github.com/Jose-Prince/Lab2-Redes)
+2. 📔 Created new repository [JosueSay/JuliaDocs](https://github.com/JosueSay/JuliaDocs)
+3. 🤝 Became collaborator on [Anggelie/Rasterization](https://github.com/Anggelie/Rasterization)
+4. 📔 Created new repository [JosueSay/lab1-esquemas_comunicacion](https://github.com/JosueSay/lab1-esquemas_comunicacion)
+5. 🤝 Became collaborator on [ElrohirGT/P1_DataScience](https://github.com/ElrohirGT/P1_DataScience)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 22nd, 2025, 3:47:53 AM
+Last Updated: Tuesday, July 22nd, 2025, 4:44:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
