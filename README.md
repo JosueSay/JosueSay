@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
-2. 📔 Created new repository [JosueSay/BlazorDocs](https://github.com/JosueSay/BlazorDocs)
-3. 🤝 Became collaborator on [Jose-Prince/Layered-Arquitecture](https://github.com/Jose-Prince/Layered-Arquitecture)
-4. 📔 Created new repository [JosueSay/pcompiler_construction_](https://github.com/JosueSay/pcompiler_construction_)
-5. 📔 Created new repository [JosueSay/labs_dl](https://github.com/JosueSay/labs_dl)
+1. 📔 Created new repository [JosueSay/modelacion_simulacion_docs](https://github.com/JosueSay/modelacion_simulacion_docs)
+2. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
+3. 📔 Created new repository [JosueSay/BlazorDocs](https://github.com/JosueSay/BlazorDocs)
+4. 🤝 Became collaborator on [Jose-Prince/Layered-Arquitecture](https://github.com/Jose-Prince/Layered-Arquitecture)
+5. 📔 Created new repository [JosueSay/pcompiler_construction_](https://github.com/JosueSay/pcompiler_construction_)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 30th, 2025, 5:35:55 AM
+Last Updated: Wednesday, July 30th, 2025, 6:44:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
