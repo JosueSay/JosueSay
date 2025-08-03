@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/computacion_paralela](https://github.com/JosueSay/computacion_paralela)
-2. 📔 Created new repository [JosueSay/modelacion_simulacion_docs](https://github.com/JosueSay/modelacion_simulacion_docs)
-3. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
-4. 📔 Created new repository [JosueSay/BlazorDocs](https://github.com/JosueSay/BlazorDocs)
-5. 🤝 Became collaborator on [Jose-Prince/Layered-Arquitecture](https://github.com/Jose-Prince/Layered-Arquitecture)
+1. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
+2. 📔 Created new repository [JosueSay/computacion_paralela](https://github.com/JosueSay/computacion_paralela)
+3. 📔 Created new repository [JosueSay/modelacion_simulacion_docs](https://github.com/JosueSay/modelacion_simulacion_docs)
+4. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
+5. 📔 Created new repository [JosueSay/BlazorDocs](https://github.com/JosueSay/BlazorDocs)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 10:48:33 PM
+Last Updated: Sunday, August 3rd, 2025, 11:27:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
