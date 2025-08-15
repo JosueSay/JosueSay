@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
-2. 📔 Created new repository [JosueSay/computacion_paralela](https://github.com/JosueSay/computacion_paralela)
-3. 📔 Created new repository [JosueSay/modelacion_simulacion_docs](https://github.com/JosueSay/modelacion_simulacion_docs)
-4. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
-5. 📔 Created new repository [JosueSay/BlazorDocs](https://github.com/JosueSay/BlazorDocs)
+1. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
+2. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
+3. 📔 Created new repository [JosueSay/computacion_paralela](https://github.com/JosueSay/computacion_paralela)
+4. 📔 Created new repository [JosueSay/modelacion_simulacion_docs](https://github.com/JosueSay/modelacion_simulacion_docs)
+5. 📔 Created new repository [JosueSay/C-Docs](https://github.com/JosueSay/C-Docs)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 7:20:06 PM
+Last Updated: Friday, August 15th, 2025, 7:40:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
