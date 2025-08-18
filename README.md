@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
-2. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
-3. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
-4. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
-5. 📔 Created new repository [JosueSay/computacion_paralela](https://github.com/JosueSay/computacion_paralela)
+1. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
+2. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
+3. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
+4. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
+5. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 18th, 2025, 3:49:16 AM
+Last Updated: Monday, August 18th, 2025, 4:43:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
