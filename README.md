@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
-2. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
-3. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
-4. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
-5. 🤝 Became collaborator on [Sofilayerdi/Graficas-Lab-4-Shaders-I](https://github.com/Sofilayerdi/Graficas-Lab-4-Shaders-I)
+1. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
+2. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
+3. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
+4. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
+5. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 23rd, 2025, 9:39:30 PM
+Last Updated: Saturday, August 23rd, 2025, 10:22:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
