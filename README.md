@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
-2. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
-3. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
-4. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
-5. 📔 Created new repository [JosueSay/RoutingAlgorithms](https://github.com/JosueSay/RoutingAlgorithms)
+1. 🤝 Became collaborator on [jaq23369/Modulo2-RayTracing](https://github.com/jaq23369/Modulo2-RayTracing)
+2. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
+3. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
+4. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
+5. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 5:43:49 AM
+Last Updated: Monday, September 1st, 2025, 6:39:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
