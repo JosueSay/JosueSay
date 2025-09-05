@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [jaq23369/Modulo2-RayTracing](https://github.com/jaq23369/Modulo2-RayTracing)
-2. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
-3. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
-4. 📔 Created new repository [JosueSay/DiscordDocs](https://github.com/JosueSay/DiscordDocs)
+1. 📔 Created new repository [JosueSay/Proyecto2_DS](https://github.com/JosueSay/Proyecto2_DS)
+2. 🤝 Became collaborator on [jaq23369/Modulo2-RayTracing](https://github.com/jaq23369/Modulo2-RayTracing)
+3. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
+4. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
 5. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 5th, 2025, 5:41:28 AM
+Last Updated: Friday, September 5th, 2025, 6:35:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
