@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [JosueSay/Proyecto2_DS](https://github.com/JosueSay/Proyecto2_DS)
-2. 🤝 Became collaborator on [jaq23369/Modulo2-RayTracing](https://github.com/jaq23369/Modulo2-RayTracing)
-3. 🤝 Became collaborator on [357U4RD0/Graficas](https://github.com/357U4RD0/Graficas)
-4. 🤝 Became collaborator on [Gerax5/Paralela_P1](https://github.com/Gerax5/Paralela_P1)
-5. 🤝 Became collaborator on [DanielRasho/Redes-Lab3](https://github.com/DanielRasho/Redes-Lab3)
+1. 📔 Created new repository [JosueSay/RepoMCP_1757632421](https://github.com/JosueSay/RepoMCP_1757632421)
+2. 📔 Created new repository [JosueSay/RepoPruebaForzada_1757632208](https://github.com/JosueSay/RepoPruebaForzada_1757632208)
+3. 📔 Created new repository [JosueSay/RepoPruebaForzada_1757631821](https://github.com/JosueSay/RepoPruebaForzada_1757631821)
+4. 📔 Created new repository [JosueSay/Proyecto2_DS](https://github.com/JosueSay/Proyecto2_DS)
+5. 🤝 Became collaborator on [jaq23369/Modulo2-RayTracing](https://github.com/jaq23369/Modulo2-RayTracing)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 11th, 2025, 11:21:54 PM
+Last Updated: Thursday, September 11th, 2025, 11:39:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
