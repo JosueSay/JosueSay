@@ -94,7 +94,7 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [JosueSay/tsp-art](https://github.com/JosueSay/tsp-art) from [apnorton/tsp-art](https://github.com/apnorton/tsp-art)
+1. 🔱 Forked [JosueSay/tsp-art](https://github.com/JosueSay/tsp-art) from [JosueSay/tsp-art](https://github.com/JosueSay/tsp-art)
 2. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
 3. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
 4. 📔 Created new repository [JosueSay/TEST_JEJEJ](https://github.com/JosueSay/TEST_JEJEJ)
@@ -102,7 +102,7 @@
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 5:40:07 PM
+Last Updated: Tuesday, October 14th, 2025, 6:36:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
