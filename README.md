@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [DanielRasho/Redes-P2](https://github.com/DanielRasho/Redes-P2)
-2. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
+1. 🤝 Became collaborator on [bar23354/OpenGL](https://github.com/bar23354/OpenGL)
+2. 🤝 Became collaborator on [DanielRasho/Redes-P2](https://github.com/DanielRasho/Redes-P2)
 3. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
 4. 📔 Created new repository [JosueSay/TEST_JEJEJ](https://github.com/JosueSay/TEST_JEJEJ)
 5. 📔 Created new repository [JosueSay/TEEST_UI_20](https://github.com/JosueSay/TEEST_UI_20)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 7th, 2025, 6:35:44 PM
+Last Updated: Friday, November 7th, 2025, 7:20:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
