@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [bar23354/OpenGL](https://github.com/bar23354/OpenGL)
-2. 🤝 Became collaborator on [DanielRasho/Redes-P2](https://github.com/DanielRasho/Redes-P2)
+1. 🤝 Became collaborator on [BrandonReyes0609/Cuda_galaxy](https://github.com/BrandonReyes0609/Cuda_galaxy)
+2. 🤝 Became collaborator on [bar23354/OpenGL](https://github.com/bar23354/OpenGL)
 3. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
 4. 📔 Created new repository [JosueSay/TEST_JEJEJ](https://github.com/JosueSay/TEST_JEJEJ)
 5. 📔 Created new repository [JosueSay/TEEST_UI_20](https://github.com/JosueSay/TEEST_UI_20)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 2:05:16 AM
+Last Updated: Thursday, November 13th, 2025, 3:35:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
