@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [BrandonReyes0609/Cuda_galaxy](https://github.com/BrandonReyes0609/Cuda_galaxy)
-2. 🤝 Became collaborator on [bar23354/OpenGL](https://github.com/bar23354/OpenGL)
-3. 📔 Created new repository [JosueSay/TestUi-2024-12-19](https://github.com/JosueSay/TestUi-2024-12-19)
-4. 📔 Created new repository [JosueSay/TEST_JEJEJ](https://github.com/JosueSay/TEST_JEJEJ)
-5. 📔 Created new repository [JosueSay/TEEST_UI_20](https://github.com/JosueSay/TEEST_UI_20)
+1. ✔️ Closed issue [#7](https://github.com/JosueSay/Git_GitHub_Documentation/issues/7) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+2. ✔️ Closed issue [#5](https://github.com/JosueSay/Git_GitHub_Documentation/issues/5) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+3. ✔️ Closed issue [#6](https://github.com/JosueSay/Git_GitHub_Documentation/issues/6) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+4. ✔️ Closed issue [#4](https://github.com/JosueSay/Git_GitHub_Documentation/issues/4) in [JosueSay/Git_GitHub_Documentation](https://github.com/JosueSay/Git_GitHub_Documentation)
+5. 🤝 Became collaborator on [BrandonReyes0609/Cuda_galaxy](https://github.com/BrandonReyes0609/Cuda_galaxy)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 25th, 2025, 6:39:37 PM
+Last Updated: Tuesday, November 25th, 2025, 7:22:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
