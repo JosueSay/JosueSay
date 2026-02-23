@@ -4,7 +4,7 @@
 
 <p style="text-align: justify;">
 
-  I am a <strong>Computer Science Engineering Student</strong> currently in my 4th year at the
+  I am a <strong>Computer Science Engineering Student</strong> currently in my 5th year at the
 
   <strong>University of the Valley of Guatemala</strong>. With a deep passion for technology, I specialize in
 
