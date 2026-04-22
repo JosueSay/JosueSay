@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
-2. 💪 Opened PR [#1](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
-3. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-4. ⭐ Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
-5. 🔱 Forked [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn) from [sebastienrousseau/pain001](https://github.com/sebastienrousseau/pain001)
+1. 💪 Opened PR [#1](undefined) in [Syntel-Labs/evolutionary-optimization-framework](https://github.com/Syntel-Labs/evolutionary-optimization-framework)
+2. 💪 Opened PR [#3](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
+3. 💪 Opened PR [#2](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
+4. 💪 Opened PR [#1](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
+5. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 22nd, 2026, 9:27:47 PM
+Last Updated: Wednesday, April 22nd, 2026, 10:24:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
