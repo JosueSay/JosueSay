@@ -56,7 +56,7 @@
         <br />PostgreSQL
       </td>
       <td align="center" width="150">
-        <img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" width="40" height="40" alt="OpenAI"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="40" height="40" alt="OpenAI"/>
         <br />OpenAI API
       </td>
       <td align="center" width="150">
