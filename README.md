@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](undefined) in [Syntel-Labs/evolutionary-optimization-framework](https://github.com/Syntel-Labs/evolutionary-optimization-framework)
-2. 💪 Opened PR [#3](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
-3. 💪 Opened PR [#2](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
-4. 💪 Opened PR [#1](undefined) in [Syntel-Labs/evolutionary-vs-rl-lab](https://github.com/Syntel-Labs/evolutionary-vs-rl-lab)
-5. ⭐ Starred [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
+1. ❌ Closed PR [#15](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+2. ❌ Closed PR [#12](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+3. ❌ Closed PR [#5](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+4. ❌ Closed PR [#18](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+5. ❌ Closed PR [#24](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 24th, 2026, 8:58:19 PM
+Last Updated: Friday, April 24th, 2026, 9:55:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
