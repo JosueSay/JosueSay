@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#15](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
-2. ❌ Closed PR [#12](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
-3. ❌ Closed PR [#5](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
-4. ❌ Closed PR [#18](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
-5. ❌ Closed PR [#24](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+1. 🤝 Became collaborator on [G2309/admin-ti_fork](https://github.com/G2309/admin-ti_fork)
+2. ❌ Closed PR [#15](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+3. ❌ Closed PR [#12](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+4. ❌ Closed PR [#5](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
+5. ❌ Closed PR [#18](undefined) in [Syntel-Labs/study-task-insights](https://github.com/Syntel-Labs/study-task-insights)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 6:20:33 PM
+Last Updated: Monday, May 18th, 2026, 8:15:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
