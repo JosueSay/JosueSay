@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#19](undefined) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
-2. 💬 Commented on [#19](https://github.com/MindoraOne/iso20022-hn/pull/19#issuecomment-5013636582) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
-3. ❌ Closed PR [#18](undefined) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
-4. 💬 Commented on [#18](https://github.com/MindoraOne/iso20022-hn/pull/18#issuecomment-5013636492) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
+1. ❌ Closed PR [#4](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+2. ❌ Closed PR [#3](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+3. ❌ Closed PR [#2](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+4. ❌ Closed PR [#1](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
 5. 💪 Opened PR [#20](undefined) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 2nd, 2026, 8:57:47 AM
+Last Updated: Wednesday, September 2nd, 2026, 1:32:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
