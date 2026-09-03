@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#4](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
-2. ❌ Closed PR [#3](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
-3. ❌ Closed PR [#2](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
-4. ❌ Closed PR [#1](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
-5. 💪 Opened PR [#20](undefined) in [MindoraOne/iso20022-hn](https://github.com/MindoraOne/iso20022-hn)
+1. 🤝 Became collaborator on [G2309/Responsible_AI_Labs](https://github.com/G2309/Responsible_AI_Labs)
+2. ❌ Closed PR [#4](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+3. ❌ Closed PR [#3](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+4. ❌ Closed PR [#2](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+5. ❌ Closed PR [#1](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 3rd, 2026, 1:21:30 AM
+Last Updated: Thursday, September 3rd, 2026, 6:22:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
