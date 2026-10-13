@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](undefined) in [JosueSay/ai-assisted-news-app](https://github.com/JosueSay/ai-assisted-news-app)
-2. 💪 Opened PR [#3](undefined) in [JosueSay/ai-assisted-news-app](https://github.com/JosueSay/ai-assisted-news-app)
-3. ⭐ Starred [arturitu/the-delegation](https://github.com/arturitu/the-delegation)
-4. ⭐ Starred [W17ant/Claude-Office](https://github.com/W17ant/Claude-Office)
-5. ⭐ Starred [iamlukethedev/Claw3D](https://github.com/iamlukethedev/Claw3D)
+1. 💪 Opened PR [#9](undefined) in [JosueSay/ml-engineering-portfolio](https://github.com/JosueSay/ml-engineering-portfolio)
+2. 💪 Opened PR [#5](undefined) in [JosueSay/ai-assisted-news-app](https://github.com/JosueSay/ai-assisted-news-app)
+3. 💪 Opened PR [#3](undefined) in [JosueSay/ai-assisted-news-app](https://github.com/JosueSay/ai-assisted-news-app)
+4. ⭐ Starred [arturitu/the-delegation](https://github.com/arturitu/the-delegation)
+5. ⭐ Starred [W17ant/Claude-Office](https://github.com/W17ant/Claude-Office)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 13th, 2026, 5:04:43 PM
+Last Updated: Tuesday, October 13th, 2026, 9:56:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
