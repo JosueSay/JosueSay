@@ -94,15 +94,15 @@
   <p style="text-align: center;">Here's a summary of my most recent activity on GitHub</p>
   
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#50](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
-2. 💪 Opened PR [#49](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
-3. 💪 Opened PR [#48](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
-4. 💪 Opened PR [#47](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
-5. 💪 Opened PR [#46](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
+1. 💪 Opened PR [#40](undefined) in [ai-project-u1g/ai-assisted-news-app](https://github.com/ai-project-u1g/ai-assisted-news-app)
+2. 💪 Opened PR [#37](undefined) in [ai-project-u1g/ai-assisted-news-app](https://github.com/ai-project-u1g/ai-assisted-news-app)
+3. 💪 Opened PR [#13](undefined) in [ai-project-u1g/ai-assisted-news-app](https://github.com/ai-project-u1g/ai-assisted-news-app)
+4. 💪 Opened PR [#50](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
+5. 💪 Opened PR [#49](undefined) in [donmatthiuz/RL](https://github.com/donmatthiuz/RL)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 13th, 2026, 10:47:53 PM
+Last Updated: Saturday, November 14th, 2026, 2:59:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
 
